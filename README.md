@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Olá meu nome é Iuri, sou desenvolvedor de <strong>Front-End</strong> e <strong>UI/UX Designer</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
+  Olá meu nome é Mateus, sou desenvolvedor de <strong>Front-End</strong> e <strong>UI/UX Designer</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
 </p>
 
 <p align="left">
