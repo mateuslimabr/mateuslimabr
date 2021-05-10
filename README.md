@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Olá meu nome é Mateus, sou desenvolvedor de <strong>Full Stack</strong> e <strong>UI/UX Designer</strong>.
+  Olá meu nome é Mateus, sou desenvolvedor <strong>Full Stack</strong> e <strong>UI/UX Designer</strong>.
 </p>
 
 <p align="left">
