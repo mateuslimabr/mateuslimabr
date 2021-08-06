@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  ℹ Meu Git encontra-se em desenvolvimentos, vários projetos ainda não foram disponibilizados publicamente aqui, no entanto acesse novamente em outro momento. </p>
+  ℹ Meu Github encontra-se em desenvolvimentos, vários projetos ainda não foram disponibilizados publicamente aqui, no entanto acesse novamente em outro momento. </p>
 
 <p align="left">
   ✉ Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
