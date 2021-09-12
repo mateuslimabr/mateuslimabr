@@ -5,14 +5,10 @@
 </p>
 
 <p align="left">
-  💡 Stacks: <strong>C++ • Java • Node.JS • PHP • Python</strong>
-</p>
-
-<p align="left">
   ℹ Meu Github encontra-se em desenvolvimentos, vários projetos ainda não foram disponibilizados publicamente aqui, no entanto acesse novamente em outro momento. </p>
 
 <p align="left">
-  ✉ Se você deseja realizar um projeto comigo (ou bater papo) ⤵️
+  ✉ Se você deseja realizar um projeto comigo ou bater papo. 
 </p>
 
 <p align="left">  
