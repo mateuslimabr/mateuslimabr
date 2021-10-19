@@ -1,7 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mateuslimabr&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=3616B8&cache_seconds=2300" align="right" alt="Estatiticas">
 
 <p align="left"> 
-  Olá meu nome é Mateus, sou desenvolvedor <strong>Full Stack</strong> e <strong>UI/UX Designer</strong>.
+  Olá meu nome é Mateus, sou <strong> Desenvolvedor Full Stack</strong> e <strong>UI/UX Designer</strong>.
 </p>
 
 <p align="left">
