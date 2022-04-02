@@ -1,14 +1,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mateuslimabr&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=3616B8&cache_seconds=2300" align="right" alt="Estatiticas">
 
 <p align="left"> 
-  ℹ Hello, I'm Mateus, <strong>Full Stack Developer</strong>.
+  ℹ Hi I'm Mateus, <strong>Software Developer</strong>.
 </p>
 
 <p align="left">
-  ⚠️ My Github is in constant development, so several projects have not yet been made publicly available here, however, check it again at another time.</p>
+  ⚠️ My Github is under constant development, so several projects have not yet been made publicly available here, however, check back again at another time.</p>
 
 <p align="left">
-  ✉ If you want to carry out a project with me or chat. 
+  ✉ If you want to make a project with me or talk. 
 </p>
 
 <p align="left">
